@@ -1,5 +1,5 @@
-### Hi there 👋
-#### I am PRAGATI ...get the name right and enjoy!
+### Hi 👋
+[repo belongs to Pragati ~ ]
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=V1T4G3C0D3" alt="V1NT4G3C0D3" /> </p>
 
@@ -9,20 +9,16 @@
 
 <br/>
 
-Hi there, I'm **Pragati Bhattad**, a **Tech enthusiast** and a **Computer Science and Engineering student** 🚀 from VIT Vellore.
+Welcome, I'm **Pragati Bhattad**, a **Tech enthusiast** and a **Computer Science and Engineering student** 🚀 from VIT Vellore.
 
-<!--
-Here are some ideas to get you started:
+Stuff about me: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a sound transferring project ~ Resonator(repo name). 
+- 🌱 I’m currently improving my nodejs skills
+- 👯 I’m looking to collaborate on node js
+- 🤔 I’m looking for help with ...well you guessed it ..nodejs
+- 💬 Ask me about anything, I'll be happy to help
+- 📫 Reach me @: pblkjh@gmail.com
 
 **Languages and Tools:**  
  
