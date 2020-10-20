@@ -1,5 +1,4 @@
 ### Hi 👋
-[repo belongs to Pragati ~ ]
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=V1T4G3C0D3" alt="V1NT4G3C0D3" /> </p>
 
@@ -16,7 +15,6 @@ Stuff about me:
 - 🔭 I’m currently working on a sound transferring project ~ Resonator(repo name). 
 - 🌱 I’m currently improving my nodejs skills
 - 👯 I’m looking to collaborate on node js
-- 🤔 I’m looking for help with ...well you guessed it ..nodejs
 - 💬 Ask me about anything, I'll be happy to help
 - 📫 Reach me @: pblkjh@gmail.com
 
